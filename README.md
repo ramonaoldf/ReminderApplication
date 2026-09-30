@@ -19,7 +19,7 @@ The projects is done using **RESTfull Service** it has separated into two sectio
 **Back End**
 * The Backend project is a Maven Project completely _Java Spring RESTfull service_  
 * We can Database configuration in dbConfig.java file
-* **Link for Back End : [Click Here](https://github.com/ikismail/ReminderApp-BackEnd.git)**
+* **Link for Back End : [Click Here](https://github.com/ramonaoldf/ReminderApp-BackEnd.git)**
 
 **Front End**
 * The frontend project is completely done using AngularJs
@@ -33,25 +33,25 @@ The projects is done using **RESTfull Service** it has separated into two sectio
 ### Screenshots of the Project:
 
 Home Page:
-![Alt text](https://github.com/ikismail/ReminderFrontEnd/blob/newlyupdate/WebContent/c_resource/images/Screenshots/home.png "Home Page")
+![Alt text](https://github.com/ramonaoldf/ReminderFrontEnd/blob/newlyupdate/WebContent/c_resource/images/Screenshots/home.png "Home Page")
 
 Login Page:
-![Alt text](https://github.com/ikismail/ReminderFrontEnd/blob/newlyupdate/WebContent/c_resource/images/Screenshots/login.png "Login Page")
+![Alt text](https://github.com/ramonaoldf/ReminderFrontEnd/blob/newlyupdate/WebContent/c_resource/images/Screenshots/login.png "Login Page")
 
 
 Register Page:
-![Alt text](https://github.com/ikismail/ReminderFrontEnd/blob/newlyupdate/WebContent/c_resource/images/Screenshots/register.png "Register Page")
+![Alt text](https://github.com/ramonaoldf/ReminderFrontEnd/blob/newlyupdate/WebContent/c_resource/images/Screenshots/register.png "Register Page")
 
 
 Events List 1:
-![Alt text](https://github.com/ikismail/ReminderFrontEnd/blob/newlyupdate/WebContent/c_resource/images/Screenshots/eventList1.png "List 1")
+![Alt text](https://github.com/ramonaoldf/ReminderFrontEnd/blob/newlyupdate/WebContent/c_resource/images/Screenshots/eventList1.png "List 1")
 
 Add Event:
-![Alt text](https://github.com/ikismail/ReminderFrontEnd/blob/newlyupdate/WebContent/c_resource/images/Screenshots/addNotes.png "Add Note Page")
+![Alt text](https://github.com/ramonaoldf/ReminderFrontEnd/blob/newlyupdate/WebContent/c_resource/images/Screenshots/addNotes.png "Add Note Page")
 
 
 View Event:
-![Alt text](https://github.com/ikismail/ReminderFrontEnd/blob/newlyupdate/WebContent/c_resource/images/Screenshots/event%20view.png "View Event")
+![Alt text](https://github.com/ramonaoldf/ReminderFrontEnd/blob/newlyupdate/WebContent/c_resource/images/Screenshots/event%20view.png "View Event")
 
 Contact Us:
-![Alt text](https://github.com/ikismail/ReminderFrontEnd/blob/newlyupdate/WebContent/c_resource/images/Screenshots/contactUs.png "ContactUs page")
+![Alt text](https://github.com/ramonaoldf/ReminderFrontEnd/blob/newlyupdate/WebContent/c_resource/images/Screenshots/contactUs.png "ContactUs page")
